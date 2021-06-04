@@ -1,3 +1,5 @@
 Aula 01
 
 npx create-react-app podcastr
+
+npx create-next-app podcastrnext
