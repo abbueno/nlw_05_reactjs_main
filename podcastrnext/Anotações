@@ -1,0 +1,13 @@
+Aula 2
+
+yarn add typescript @types/react @types/node -D
+yarn add sass
+yarn add date-fns
+yarn add json-server -D
+yarn server
+yarn build
+
+
+
+
+parei na aula 2 aos 1h:09 minutos:
